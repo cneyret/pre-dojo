@@ -1,2 +1,10 @@
 Coloque aqui suas instruções ou comentários que ache útil/relevantes para possamos ler 
 quando estivermos avaliando a sua solução
+
+
+***************************************************************************
+1) pacote rankingCs.br.run existe uma classe main para rodar e ver no console o output da solução.
+2) pacote rankingCs.br.tests existe uma classe com os testes unitários (JUnit)
+3) projeto feito usando a IDE eclipse
+4) a pasta logs contém os logs necessário spara rodar os testes com sucesso, o leitor de txt já está apontando para esta pasta que está dentro do projeto.
+5) As libraries utilizadas já estão dentro do próprio projeto na pasta lib
